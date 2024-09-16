@@ -10,6 +10,7 @@ Welcome to my personal portfolio website! This project showcases my work, skills
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [License](#license)
 ## Project Structure
 
 ### Sidebar
@@ -51,6 +52,10 @@ Feel free to modify and adapt the website to suit your needs. You can edit the H
 ## Contributing
 
 Contributions are welcome! If you would like to contribute to this project, feel free to open an issue or submit a pull request. Contributions are welcome!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 For any questions or feedback, feel free to reach out to me via email at [vanshpandit301@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/vansh-sharma-b2384528a/).
